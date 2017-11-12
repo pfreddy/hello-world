@@ -1,2 +1,3 @@
 # hello-world
 For the beginning...
+Na szóval van ez a tutorial, amit jobbnak láttam végigcsinálni, szóval most ide írogatok.
